@@ -4,7 +4,7 @@
 
 * When a cron job script has a tar command being run with a wildcard (\*), this can be exploited.
 
-![Image of compress](https://github.com/kam1n0/cron-wildcard/blob/master/tmp_upload/compress.png)
+[![Image of compress](https://github.com/kam1n0/cron-wildcard/blob/master/tmp_upload/compress.png)](#)
 
 * Consulting GTFOBins for 'tar', there is a feature that allows other commands to be run as part of a checkpoint feature:
 
